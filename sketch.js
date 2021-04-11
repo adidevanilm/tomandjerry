@@ -43,6 +43,7 @@ function draw() {
     }
 
     drawSprites();
+    text(mouseX+","+mouseY,10,45);
 }
 
 
